@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PhantomPlasma0064
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java, or will be anyways, kinda procastinating on that
-- ⚡ Fun fact: I am graduating next year
+- 🌱 I did AP CSP last year, and am doing AP CSA now,
+- ⚡ Fun fact: I am graduating this year
 
 <!---
 PhantomPlasma0064/PhantomPlasma0064 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
